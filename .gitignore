@@ -1,0 +1,27 @@
+# Ignorar archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar carpetas y archivos de compilación
+/build
+/dist
+*.class
+*.o
+*.so
+
+# Ignorar dependencias
+/node_modules
+/vendor
+
+# Ignorar archivos de configuración del entorno
+.env
+
+# Ignorar archivos de log
+*.log
+
+# Ignorar archivos de personalización del editor
+.idea/
+.vscode/
+
+#Ignorar los archivos de la carpeta .vs/
+.vs/

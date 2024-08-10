@@ -1,0 +1,4 @@
+*.sln filter=lfs diff=lfs merge=lfs -text
+Gimnasio filter=lfs diff=lfs merge=lfs -text
+App/frmLogin.resx filter=lfs diff=lfs merge=lfs -text
+*.resx filter=lfs diff=lfs merge=lfs -text
